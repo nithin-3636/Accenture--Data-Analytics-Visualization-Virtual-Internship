@@ -21,7 +21,7 @@ Analysis of sample data sets with visualizations to understand the popularity of
 
 In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
-Task - 2
+# Task - 2
 
 Often you won’t need all these datasets to find what you’re looking for.
 So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
@@ -52,7 +52,7 @@ Top 5 categories
 Cleaned Data set:
 So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
 
-Task - 3
+# Task - 3
 
 Data Visualization and Storytelling:
 Make the Powerpoint presentation as per the given template
@@ -63,7 +63,7 @@ Pie Chart
 Bar Chart
 Powerpoint Presentation : PPT
 
-Task - 4
+# Task - 4
 
 Present to the Client:
 Present your powerpoint presentation to the client and deliver the insights of your analysis
